@@ -1,0 +1,9 @@
+{
+    "CourseCode": "CSE4067",
+    "CourseName": "Introduction to Blockchain Programming",
+    "Credit": "5",
+    "Prereq": [],
+    "Lecturer": "Müjdat Soytürk",
+    "CourseType": "TE",
+    "Seatlimit": "120"
+}
